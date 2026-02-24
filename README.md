@@ -32,3 +32,28 @@
 - **Employee of the Year** | *Recognized for outstanding software development and system delivery.*
 - **2nd Place Symposium (2020)** | *Awarded for technical presentation and innovation.*
 - **MS in Computer Science** | *University of Texas at Arlington (Dec 2025).*
+
+
+---
+
+### ⚙️ System Architecture
+
+<div align="center">
+  
+  <p><strong> Frontend & Mobile </strong></p>
+  <img src="https://skillicons.dev/icons?i=react,kotlin,html,css&theme=dark" alt="Frontend and Mobile Skills" />
+  <br><br>
+  
+  <p><strong> Backend Core </strong></p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi,express&theme=dark" alt="Backend Skills" />
+  <br><br>
+  
+  <p><strong> Data & Storage </strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongo,sqlite&theme=dark" alt="Database Skills" />
+  <br><br>
+  
+  <p><strong> Cloud, Ops & Testing </strong></p>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,selenium,git&theme=dark" alt="Cloud and DevOps Skills" />
+  <br><br>
+ 
+</div>
