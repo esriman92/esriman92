@@ -5,6 +5,8 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esriman92&show_icons=true&theme=transparent&title_color=002147&text_color=333333&icon_color=002147&bg_color=f0f4f8&hide_border=true" />
-</div>
+### ⚙️ Core Architecture & Technologies
+
+**AI & Machine Learning:** <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-002147?style=for-the-badge&logo=chainlink&logoColor=white" />
+
+**Full-Stack Ecosystem:** <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
