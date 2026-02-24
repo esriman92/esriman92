@@ -21,3 +21,10 @@
 #### **Full-Stack Ecosystem:** 
 
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+
+
+### 🏆 Milestones & Recognition
+- **Employee of the Year** | *Recognized for outstanding software development and system delivery.*
+- **2nd Place Symposium (2020)** | *Awarded for technical presentation and innovation.*
+- **MS in Computer Science** | *University of Texas at Arlington (Dec 2025).*
