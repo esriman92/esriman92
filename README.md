@@ -4,6 +4,8 @@
   </a>
 </div>
 
+---
+
 
 ### 👨‍💻 About Me
 * 🎓 Master of Science in Computer Science graduate from the University of Texas at Arlington.
@@ -11,6 +13,8 @@
 * 💼 Previously worked as a Software Developer at Tata Consultancy Services.
 * 🏆 Recognized as "Employee of the Year" and won 2nd place at a 2020 university symposium.
 * 🌱 I’m currently exploring deeper integrations of AI/ML (Transformers, LLMs, RAG) with full-stack applications.
+
+---
 
 ### ⚙️ Core Architecture & Technologies
 
@@ -22,7 +26,7 @@
 
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-
+---
 
 ### 🏆 Milestones & Recognition
 - **Employee of the Year** | *Recognized for outstanding software development and system delivery.*
