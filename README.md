@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi, I'm Sriman Emagouda 👋</h1>
+  <h3>Software Developer</h3>
+</div>
 
-<!--
-**esriman92/esriman92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+* 🎓 Master of Science in Computer Science graduate from the University of Texas at Arlington.
+* 📱 Currently volunteering as a Mobile Application Designer Intern for the AIAA North Texas Section.
+* 💼 Previously worked as a Software Developer at Tata Consultancy Services.
+* 🏆 Recognized as "Employee of the Year" and won 2nd place at a 2020 university symposium.
+* 🌱 I’m currently exploring deeper integrations of AI/ML (Transformers, LLMs, RAG) with full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+**Frontend & Mobile:** React, Node.js  
+**Backend & Database:** Spring Boot, PostgreSQL, SQLite  
+**AI & Cloud:** Machine Learning, RAG, Docker, Google Cloud Run  
+**Testing:** Selenium  
+
+### 🚀 Highlighted Projects
+* **[BillFast](#)** - A full-stack application built with Spring Boot, PostgreSQL, and React.
+* **[TutorNova](#)** - An educational platform developed using the MERN stack.
+* **[Indian Saree Boutique Platform](#)** - An e-commerce solution built on the PERN stack.
+* **[ReadyRoll Maintenance](#)** - A mobile utility app developed with Kotlin and SQLite.
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=esriman92&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esriman92&layout=compact&theme=radical" />
+</div>
