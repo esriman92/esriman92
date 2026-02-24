@@ -1,33 +1,41 @@
 <div align="center">
-  <h1>Hi, I'm Sriman Emagouda 👋</h1>
-  <h3>Software Developer</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=System.out.println(%22Hi%2C+I'm+Sriman+Emagouda%22);Software+Developer;Architecting+Full-Stack+%26+AI+Solutions" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-* 🎓 Master of Science in Computer Science graduate from the University of Texas at Arlington.
-* 📱 Currently volunteering as a Mobile Application Designer Intern for the AIAA North Texas Section.
-* 💼 Previously worked as a Software Developer at Tata Consultancy Services.
-* 🏆 Recognized as "Student Employee Award of Excellence 2025" and won 2nd place at a 2020 university symposium.
-* 🌱 I’m currently exploring deeper integrations of AI/ML (Transformers, LLMs, RAG) with full-stack applications.
+### 💻 `> whoami`
+```json
+{
+  "name": "Sriman Emagouda",
+  "role": "Software Developer",
+  "education": "MSCS, University of Texas at Arlington",
+  "current_mission": "Mobile Application Designer Intern @ AIAA North Texas Section",
+  "background": "Former Software Developer @ Tata Consultancy Services",
+  "focus_areas": ["AI/ML Integrations", "LLMs & RAG", "Scalable Full-Stack Architecture"],
+  "achievements": ["Employee of the Year", "Symposium 2nd Place (2020)"]
+}
 
-### 🛠️ Tech Stack
-**Frontend & Mobile:** React, Node.js, Angular, Streamlit
-**Backend & Database:** Spring Boot, .NET Core, PostgreSQL, SQLite, MySQL  
-**AI & Cloud:** Machine Learning, RAG, Docker, Google Cloud Run, Gemini API, Google Cloud CLI  
-**Testing:** Selenium  
+### ⚙️ `> system.architecture()`
 
-### 🚀 Highlighted Projects
-* **[BillFast](#)** - A full-stack application built with Spring Boot, PostgreSQL, and React.
-* **[TutorNova](#)** - An educational platform developed using the MERN stack.
-* **[Indian Saree Boutique Platform](#)** - An e-commerce solution built on the PERN stack.
-* **[ReadyRoll Maintenance](#)** - A mobile utility app developed with Kotlin and SQLite.
-
----
-
-### 📊 GitHub Stats
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=esriman92&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esriman92&layout=compact&theme=radical" />
+  
+  <p><strong>[ Frontend & Mobile ]</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,kotlin,html,css&theme=dark" alt="Frontend and Mobile Skills" />
+  <br><br>
+  
+  <p><strong>[ Backend Core ]</strong></p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" alt="Backend Skills" />
+  <br><br>
+  
+  <p><strong>[ Data & Storage ]</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongo,sqlite&theme=dark" alt="Database Skills" />
+  <br><br>
+  
+  <p><strong>[ Cloud, Ops & Testing ]</strong></p>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,selenium,git&theme=dark" alt="Cloud and DevOps Skills" />
+  <br><br>
+  
 </div>
