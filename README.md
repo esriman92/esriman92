@@ -14,8 +14,10 @@
 
 ### ⚙️ Core Architecture & Technologies
 
-**AI & Machine Learning:** 
+## **AI & Machine Learning:** 
+
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-002147?style=for-the-badge&logo=chainlink&logoColor=white" />
 
-**Full-Stack Ecosystem:** 
+## **Full-Stack Ecosystem:** 
+
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
