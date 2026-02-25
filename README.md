@@ -1,6 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=002147&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sriman+Emagouda;Software+Developer+%7C+AI+Architect;Building+Futuristic+Web+%26+Mobile+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi,+I%27m+Sriman+Emagouda;Software+Developer+%7C+AI+Architect;Building+Futuristic+Web+%26+Mobile+Apps#gh-dark-mode-only" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=002147&center=true&vCenter=true&width=700&lines=Hi,+I%27m+Sriman+Emagouda;Software+Developer+%7C+AI+Architect;Building+Futuristic+Web+%26+Mobile+Apps#gh-light-mode-only" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,7 +12,7 @@
 * 🎓 Master of Science in Computer Science graduate from the University of Texas at Arlington.
 * 📱 Currently volunteering as a Mobile Application Designer Intern for the AIAA North Texas Section.
 * 💼 Previously worked as a Software Developer at Tata Consultancy Services.
-* 🏆 Recognized as "Employee of the Year" and won 2nd place at a 2020 university symposium.
+* 🏆 Recognized as "Student Employee Award of Excellence" and also won 2nd place at 2020 university symposium.
 * 🌱 I’m currently exploring deeper integrations of AI/ML (Transformers, LLMs, RAG) with full-stack applications.
 
 ---
