@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
+    <defs>
+        <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur2"/>
+            <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur4"/>
+            <feMerge>
+                <feMergeNode in="blur2"/>
+                <feMergeNode in="blur4"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+
+    <style>
+        /* Base Font Styles */
+        .base-text {
+            font-family: 'Fira Code', monospace, sans-serif;
+            font-size: 14px;
+            fill: #ffffff;
+        }
+        
+        /* Scrolling Animation: Left to Right */
+        .ticker-opposite {
+            animation: scrollLeftToRight 25s linear infinite;
+        }
+        @keyframes scrollLeftToRight {
+            0% { transform: translateX(-100%); }
+            100% { transform: translateX(800px); }
+        }
+
+        /* Neon Blinking Animation */
+        .neon-blinker {
+            font-weight: bold;
+            fill: #ffffff;
+            /* Apply the filter defined above */
+            filter: url(#neon-glow);
+            animation: blink-animation 1.5s infinite alternate;
+        }
+        @keyframes blink-animation {
+            0% { opacity: 1; }
+            100% { opacity: 0.6; }
+        }
+    </style>
+    
+    <rect width="800" height="40" fill="#002147" />
+    
+    <svg x="110" width="690" height="40">
+         <text y="25" class="base-text ticker-opposite">
+            ...AI model achieves 99% accuracy in climate prediction • New quantum computing breakthrough threatens legacy encryption • TypeScript 6.0 beta released with massive inference speed boost...
+        </text>
+    </svg>
+
+    <rect width="110" height="40" fill="#D2222D" />
+    <text x="55" y="25" text-anchor="middle" class="base-text neon-blinker">BREAKING NEWS!</text>
+</svg>
