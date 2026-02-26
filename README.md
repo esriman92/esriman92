@@ -6,20 +6,7 @@
 </div>
 
 <div align="center">
-  <table width="100%" cellspacing="0" cellpadding="0">
-    <tr>
-      <td bgcolor="#002147" width="95%">
-        <marquee direction="left" scrollamount="5">
-          <font color="#ffffff" face="Fira Code, monospace">
-            <b>🛰️ LIVE TECH RADAR:</b> 🚀 Architecting resilient microservices • 🧠 Integrating LLMs and RAG architectures into production • ⚙️ Optimizing full-stack database queries • 🌐 Designing scalable mobile applications...
-          </font>
-        </marquee>
-      </td>
-      <td bgcolor="#D2222D" width="5%">
-        <div align="center"><font color="#ffffff"><b>LIVE</b></font></div>
-      </td>
-    </tr>
-  </table>
+  <img src="radar-ticker.svg" alt="Live Tech Radar" />
 </div>
 
 ---
