@@ -93,19 +93,19 @@
 <div align="center">
   
   <p><strong> Frontend & Mobile </strong></p>
-  <img src="https://skillicons.dev/icons?i=react,kotlin,html,css&theme=dark" alt="Frontend and Mobile Skills" />
+  <img src="https://skillicons.dev/icons?i=react,kotlin,angular,html,css&theme=dark" alt="Frontend and Mobile Skills" />
   <br><br>
   
   <p><strong> Backend Core </strong></p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi,express&theme=dark" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi,dotnet,express&theme=dark" alt="Backend Skills" />
   <br><br>
   
   <p><strong> Data & Storage </strong></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongo,sqlite&theme=dark" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,sqlite&theme=dark" alt="Database Skills" />
   <br><br>
   
   <p><strong> Cloud, Ops & Testing </strong></p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,selenium,git&theme=dark" alt="Cloud and DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=docker,gcp,aws,azure,selenium,git,bitbucket&theme=dark" alt="Cloud and DevOps Skills" />
   <br><br>
  
 </div>
