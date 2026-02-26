@@ -39,4 +39,6 @@
     <circle cx="40" cy="360" r="6" class="node-cyan" />
     <text x="65" y="365" class="title-cyan">💻 Software Developer</text>
     <text x="280" y="365" class="org-text">| Tata Consultancy Services Ltd, Hyderabad</text>
-    <text x="65" y="385" class
+    <text x="65" y="385" class="desc-text">Engineered enterprise-grade software and continuously led development teams</text>
+    <text x="65" y="405" class="desc-text">to deliver scalable, high-availability solutions.</text>
+</svg>
