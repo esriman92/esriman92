@@ -13,9 +13,9 @@
     <line x1="40" y1="40" x2="40" y2="130" stroke="#FFBD2E" stroke-width="2" stroke-opacity="0.6"/>
 
     <circle cx="40" cy="50" r="6" class="node-gold" />
-    <text x="65" y="55" class="title-gold">🏆 Employee of the Year</text>
-    <text x="320" y="55" class="org-text">| XYZ Company</text>
-    <text x="65" y="75" class="desc-text">Recognized for exceptional system delivery and operational excellence.</text>
+    <text x="65" y="55" class="title-gold">🏆 Student Employee Award of Excellence</text>
+    <text x="320" y="55" class="org-text">| UTA </text>
+    <text x="65" y="75" class="desc-text">Recognized for exceptional Administration Service and operational excellence.</text>
 
     <circle cx="40" cy="115" r="6" class="node-gold" />
     <text x="65" y="120" class="title-gold">🥈 2nd Place, Technical Symposium</text>
