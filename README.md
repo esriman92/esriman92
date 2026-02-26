@@ -23,26 +23,52 @@
 
 ---
 
-### ⚙️ Core Architecture & Technologies
-
-#### **AI & Machine Learning:** 
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-002147?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs_%26_RAG-002147?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="tech-header.svg" alt="Core Architecture Header" />
 </div>
 
-#### **Full-Stack Ecosystem:** 
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java_%26_Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_%26_Node.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_%26_GCP-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <p><b><font color="#61DAFB">Cognitive Engine (AI & Machine Learning)</font></b></p>
+  <img src="https://img.shields.io/badge/PyTorch-002147?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/LLMs_%26_RAG_Arch-002147?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-002147?style=for-the-badge&logo=huggingface&logoColor=FFAA00" />
+  <img src="https://img.shields.io/badge/Python_3-002147?style=for-the-badge&logo=python&logoColor=3776AB" />
 </div>
+
+<br/>
+
+<div align="center">
+  <p><b><font color="#61DAFB">Logic & Routing (Backend Ecosystem)</font></b></p>
+  <img src="https://img.shields.io/badge/Java-002147?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-002147?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/Node.js-002147?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-002147?style=for-the-badge&logo=express&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><b><font color="#61DAFB">Interface & Interaction (Frontend & Mobile)</font></b></p>
+  <img src="https://img.shields.io/badge/React_DOM-002147?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Kotlin_Mobile-002147?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-002147?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><b><font color="#61DAFB">Persistence & Deployment (Data & Cloud)</font></b></p>
+  <img src="https://img.shields.io/badge/PostgreSQL-002147?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Docker_Containers-002147?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Google_Cloud-002147?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-002147?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+</div>
+
+<br/>
 
 ---
 
