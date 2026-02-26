@@ -72,10 +72,26 @@
 
 ---
 
-### 🏆 Milestones & Recognition
-- **MS in Computer Science** | *University of Texas at Arlington (Dec 2025).*
-- **Student Employee of the Year** | *Recognized for outstanding Administrative Service.*
-- **2nd Place Symposium (2020)** | *Awarded for technical presentation and innovation.*
+<div align="center">
+  <img src="milestones-header.svg" alt="Milestones Header" />
+</div>
+
+<br/>
+
+> ### 🏆 VERIFIED RECOGNITION
+> * **Employee of the Year** | *XYZ Company* — Recognized for exceptional system delivery and operational excellence.
+> * **2nd Place, Technical Symposium** | *Undergraduate (2020)* — Awarded for innovation and advanced technical presentation.
+
+<br/>
+
+> ### ⏱️ PROFESSIONAL TRAJECTORY
+> * **Mobile Application Designer Intern** | *AIAA North Texas Section (Present)* >   * Architecting and designing Apple/Android applications for the aerospace engineering community.
+> * **Master of Science in Computer Science** | *University of Texas at Arlington (Dec 2025)*
+>   * Finalized advanced academic training in computational theory and system architecture.
+> * **Software Developer** | *Tata Consultancy Services Ltd, Hyderabad (Almost 2 Years)*
+>   * Engineered enterprise-grade software and continuously led development teams to deliver scalable, high-availability solutions.
+
+<br/>
 
 ---
 
