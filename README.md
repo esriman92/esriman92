@@ -14,12 +14,14 @@
 <div align="center">
   <img src="radar-ticker.svg" alt="Live Tech Radar" />
 </div>
+
 ---
+
 <br/>
 
 <div align="center">
   <img src="identity-terminal.svg" alt="System Identity Terminal" />
-</div>>
+</div>
 
 ---
 
