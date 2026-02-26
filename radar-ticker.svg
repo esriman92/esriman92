@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
+    <style>
+        .ticker {
+            font-family: 'Fira Code', monospace, sans-serif;
+            font-size: 14px;
+            fill: #ffffff;
+            animation: scroll 20s linear infinite;
+        }
+        @keyframes scroll {
+            0% { transform: translateX(800px); }
+            100% { transform: translateX(-1200px); }
+        }
+        .live-text {
+            font-family: 'Fira Code', monospace, sans-serif;
+            font-size: 14px;
+            font-weight: bold;
+            fill: #ffffff;
+            letter-spacing: 1px;
+        }
+    </style>
+    
+    <rect width="800" height="40" fill="#002147" />
+    
+    <text y="25" class="ticker">
+        🛰️ LIVE TECH RADAR: 🚀 Architecting resilient microservices • 🧠 Integrating LLMs and RAG architectures into production • ⚙️ Optimizing full-stack database queries • 🌐 Designing scalable mobile applications...
+    </text>
+
+    <rect x="740" width="60" height="40" fill="#D2222D" />
+    <text x="750" y="25" class="live-text">LIVE</text>
+</svg>
