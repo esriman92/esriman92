@@ -7,12 +7,27 @@
     <circle cx="70" cy="17.5" r="7" fill="#27C93F" />
     
     <style>
+        /* Existing Font Styles */
         .cmd { font-family: 'Fira Code', monospace; font-size: 18px; fill: #61DAFB; font-weight: bold; }
         .info { font-family: 'Fira Code', monospace; font-size: 17px; fill: #FFBD2E; font-weight: bold; }
         .text { font-family: 'Fira Code', monospace; font-size: 18px; fill: #E0ECEF; }
+
+        /* NEW: The Cursor Animation Architecture */
+        .cursor {
+            fill: #61DAFB; /* Matches the command text color */
+            /* We use step-end for a sharp, robotic on/off blink rather than a soft fade */
+            animation: blink 1s step-end infinite;
+        }
+        @keyframes blink {
+            0%, 49% { opacity: 1; }
+            50%, 100% { opacity: 0; }
+        }
     </style>
 
     <text x="25" y="75" class="cmd">➜  ~ system.identity.fetch("Sriman_Emagouda")</text>
+    
+    <rect x="445" y="61" width="10" height="18" class="cursor" />
+
     <text x="25" y="115" class="info">[STATE: Active] | [ROLE: Software Developer] | [BASE: MSCS, UTA]</text>
     
     <text x="25" y="165" class="text">I am an engineer who bridges the gap between high-performance backend logic</text>
