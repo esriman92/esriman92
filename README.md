@@ -73,6 +73,7 @@
 <br/>
 
 ---
+
 <div align="center">
   <img src="milestones-header.svg" alt="Milestones Header" />
 </div>
