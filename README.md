@@ -88,7 +88,13 @@
 
 ---
 
-### ⚙️ System Architecture
+<br/>
+
+<div align="center">
+  <img src="architecture-header.svg" alt="Core Architecture Header" />
+</div>
+
+<br/>
 
 <div align="center">
   
