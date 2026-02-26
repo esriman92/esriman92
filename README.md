@@ -17,17 +17,9 @@
 
 ---
 
-<br/>
-
-> ### <code>&gt; system.identity.fetch("Sriman_Emagouda")</code>
->
-> **STATE:** Active | **ROLE:** Software Developer | **BASE:** MSCS, University of Texas at Arlington
->
-> I am an engineer who bridges the gap between high-performance backend logic and pristine user interfaces. Currently designing mobile applications with the AIAA North Texas Section, I previously spent nearly two years engineering enterprise software at Tata Consultancy Services, where I continuously led development teams to deliver and scale complex architectures.
-> 
-> My approach to full-stack and AI development is holistic. A deep background in professional photo editing and aesthetic design heavily influences my front-end architecture. I treat UI/UX not as an afterthought, but as a critical, high-fidelity layer of the system. Whether I am orchestrating data pipelines or refining a React frontend, my objective is to architect systems that are as visually intuitive as they are computationally profound.
-
-<br/>
+<div align="center">
+  <img src="identity-terminal.svg" alt="System Identity Terminal" />
+</div>
 
 ---
 
