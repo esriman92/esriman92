@@ -105,7 +105,7 @@
   <br><br>
   
   <p><strong> Cloud, Ops & Testing </strong></p>
-  <img src="https://skillicons.dev/icons?i=docker,gcp,selenium,git&theme=dark" alt="Cloud and DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,selenium,git&theme=dark" alt="Cloud and DevOps Skills" />
   <br><br>
  
 </div>
