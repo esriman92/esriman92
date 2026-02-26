@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" viewBox="0 0 800 340">
+    <rect width="800" height="340" rx="10" fill="#002147" />
+    
+    <rect width="800" height="30" rx="10" fill="#00152e" />
+    <circle cx="20" cy="15" r="6" fill="#FF5F56" />
+    <circle cx="40" cy="15" r="6" fill="#FFBD2E" />
+    <circle cx="60" cy="15" r="6" fill="#27C93F" />
+    
+    <style>
+        .cmd { font-family: 'Fira Code', monospace; font-size: 15px; fill: #61DAFB; font-weight: bold; }
+        .info { font-family: 'Fira Code', monospace; font-size: 14px; fill: #FFBD2E; font-weight: bold; }
+        .text { font-family: 'Fira Code', monospace; font-size: 14px; fill: #E0ECEF; }
+    </style>
+
+    <text x="20" y="65" class="cmd">➜  ~ system.identity.fetch("Sriman_Emagouda")</text>
+    <text x="20" y="95" class="info">[STATE: Active] | [ROLE: Software Developer] | [BASE: MSCS, UTA]</text>
+    
+    <text x="20" y="135" class="text">I am an engineer who bridges the gap between high-performance backend logic</text>
+    <text x="20" y="155" class="text">and pristine user interfaces. Currently designing mobile applications with the</text>
+    <text x="20" y="175" class="text">AIAA North Texas Section, I previously spent nearly two years engineering</text>
+    <text x="20" y="195" class="text">enterprise software at Tata Consultancy Services, where I continuously led</text>
+    <text x="20" y="215" class="text">development teams to deliver and scale complex architectures.</text>
+    
+    <text x="20" y="255" class="text">My approach to full-stack and AI development is holistic. A deep background</text>
+    <text x="20" y="275" class="text">in professional photo editing and aesthetic design heavily influences my</text>
+    <text x="20" y="295" class="text">front-end architecture. I treat UI/UX not as an afterthought, but as a</text>
+    <text x="20" y="315" class="text">critical, high-fidelity layer of the system to ensure computational profundity.</text>
+</svg>
