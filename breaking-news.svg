@@ -46,7 +46,7 @@
     
     <svg x="110" width="690" height="40">
          <text y="25" class="base-text ticker-opposite">
-            Plasma Bigscreen – 10-foot interface for KDE plasma • this css proves me human • C# strings silently kill your SQL Server indexes in Dapper •                                      
+            Plasma Bigscreen – 10-foot interface for KDE plasma • UUID package coming to Go standard library • this css proves me human •                                       
         </text>
     </svg>
 
