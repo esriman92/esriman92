@@ -46,7 +46,7 @@
     
     <svg x="110" width="690" height="40">
          <text y="25" class="base-text ticker-opposite">
-            OpenCode – Open source AI coding agent • Mamba-3 • Molly Guard •                                                                                             
+            OpenCode – Open source AI coding agent • Mamba-3 • Atuin v18.13 – better search, a PTY proxy, and AI for your shell •                                                                                              
         </text>
     </svg>
 
