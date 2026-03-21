@@ -46,7 +46,7 @@
     
     <svg x="110" width="690" height="40">
          <text y="25" class="base-text ticker-opposite">
-            OpenCode – The open source AI coding agent • Our commitment to Windows quality • We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster •                                                                                            
+            OpenCode – Open source AI coding agent • Mamba-3 • Molly Guard •                                                                                             
         </text>
     </svg>
 
